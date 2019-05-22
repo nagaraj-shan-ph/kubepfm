@@ -1,4 +1,4 @@
-module github.com/mobingilabs/flowerinthenight/kubepfm
+module github.com/flowerinthenight/kubepfm
 
 require (
 	github.com/fatih/color v1.7.0
